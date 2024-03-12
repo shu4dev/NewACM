@@ -3,7 +3,7 @@
 
 <footer
   class="background"
-  style="--image: url('{{ image }}')"
+  style="background-color: rgba(33, 33, 33, 0.6);"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
@@ -16,14 +16,19 @@
   -->
 
   <div>
-    {% for link in site.links %}
-      {% assign key = link[0] %}
-      {% assign value = link[1] %}
-      {% include button.html type=key text="" link=value style="bare" %}
-    {% endfor %}
-  </div>
-
-  <div>
+    <div>
+      {% for link in site.links %}
+        {% assign key = link[0] %}
+        {% assign value = link[1] %}
+        {% include button.html type=key text="" link=value style="bare" %}
+      {% endfor %}
+    <input
+      type="checkbox"
+      class="dark-toggle"
+      data-tooltip="Dark mode"
+      aria-label="toggle dark mode"
+      oninput="onDarkToggleChange(event)">
+    </div>
     &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
     &nbsp; | &nbsp; Built with
@@ -31,7 +36,7 @@
       Lab Website Template
     </a>
   </div>
-
+  <!--
   <input
     type="checkbox"
     class="dark-toggle"
@@ -39,4 +44,5 @@
     aria-label="toggle dark mode"
     oninput="onDarkToggleChange(event)"
   >
+  -->
 </footer>

@@ -1,0 +1,16 @@
+<div class="dropdown is-right is-hoverable">
+    <a class="dropdown-trigger">Clubs</a>
+    <div class="dropdown-menu" role="menu">
+      <div class="dropdown-content">
+        <div>
+          {% for item in site.clubs %}
+          <a class="dropdown-item" href="{{ item.url | relative_url }}" itemprop="url">
+            <span  href="{{ item.url | relative_url }}" itemprop="url" itemprop="name">{{ item.title }}</span>
+          </a>
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+</div>
+
+

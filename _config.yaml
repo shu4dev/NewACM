@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: ACM@MANOA
+subtitle: The Association for Computing Machinery at the University of Hawaii at Manoa
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
@@ -34,6 +34,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_clubs
+  - scope:
+      type: "clubs"
+    values:
+      layout: post
 
 collections:
   # generate page for each member
@@ -41,6 +46,8 @@ collections:
     output: true
   # generate page for each post
   posts:
+    output: true
+  clubs:
     output: true
 
 # jekyll plugins
