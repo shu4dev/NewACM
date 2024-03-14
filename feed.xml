@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/NewACM/feed.xml" rel="self" type="application/atom+xml" /><link href="/NewACM/" rel="alternate" type="text/html" /><updated>2024-03-12T02:07:46+00:00</updated><id>/NewACM/feed.xml</id><title type="html">ACM@MANOA</title><subtitle>An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.</subtitle><entry><title type="html">Kanehekili Datathon</title><link href="/NewACM/2024/01/03/kanehekili-datathon.html" rel="alternate" type="text/html" title="Kanehekili Datathon" /><published>2024-01-03T00:00:00+00:00</published><updated>2024-03-12T02:06:11+00:00</updated><id>/NewACM/2024/01/03/kanehekili-datathon</id><content type="html" xml:base="/NewACM/2024/01/03/kanehekili-datathon.html"><![CDATA[<h1 id="kanehekili-datathon">Kanehekili Datathon</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/NewACM/feed.xml" rel="self" type="application/atom+xml" /><link href="/NewACM/" rel="alternate" type="text/html" /><updated>2024-03-14T21:27:08+00:00</updated><id>/NewACM/feed.xml</id><title type="html">ACM@MANOA</title><subtitle>An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.</subtitle><entry><title type="html">Kanehekili Datathon</title><link href="/NewACM/2024/01/03/kanehekili-datathon.html" rel="alternate" type="text/html" title="Kanehekili Datathon" /><published>2024-01-03T00:00:00+00:00</published><updated>2024-03-14T21:25:43+00:00</updated><id>/NewACM/2024/01/03/kanehekili-datathon</id><content type="html" xml:base="/NewACM/2024/01/03/kanehekili-datathon.html"><![CDATA[<h1 id="kanehekili-datathon">Kanehekili Datathon</h1>
 <p>The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun! Students form teams to tackle questions of importance to Hawaii using data science and submit their solutions at the end of the weekend for a chance to win prizes.</p>
 
 <p>Students can also attend workshops held before the events, mini-events (during the datathon), and socials, and network with our industry partners! Attendance is FREE and all meals, snacks, and drinks are provided. We welcome participants from all disciplines, backgrounds, and technical levels!</p>
@@ -7,9 +7,9 @@
 
 <p>For more information, visit our Datathon website: <a href="https://datathon.acmmanoa.org">datathon.acmmanoa.org</a></p>
 
-<h1 id="registration-open">REGISTRATION OPEN!</h1>
+<h1 id="student-registration">Student Registration</h1>
 
-<p><strong>Step 1:</strong> Register yourself for the competition <a href="https://forms.gle/74eHk3ZWGekb7BfN7">here.</a></p>
+<p><strong>Step 1:</strong> Register yourself for the competition <a href="https://forms.gle/YMQtbKLiSesZYgX67">here.</a></p>
 
 <p><strong>Step 2:</strong> Form a team! Then register your team <a href="https://forms.gle/L3P55WFz9Ux8kyvD6">here.</a></p>
 
@@ -38,6 +38,10 @@
   </tbody>
 </table>
 
+<h1 id="volunteermentor-registration">Volunteer/Mentor Registration</h1>
+
+<p>We are looking for ‘Mentors’ who can offer bits of guidance throughout the competition. If you are interested and able to volunteer, please fill out this form. 
+<a href="https://forms.gle/ajpXDNLCxjSHqM459">link</a></p>
 <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
 
 <script src="//code.jquery.com/jquery-latest.js"></script>
@@ -45,7 +49,7 @@
 <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 
 <style>
-</style>]]></content><author><name></name></author><category term="datathon" /><summary type="html"><![CDATA[The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/NewACM/images/post/S24_Datathon_Logo.jpg" /><media:content medium="image" url="/NewACM/images/post/S24_Datathon_Logo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tech &amp;amp; Intelligence Career Fair Fall 2023</title><link href="/NewACM/2023/10/12/Career-Fair.html" rel="alternate" type="text/html" title="Tech &amp;amp; Intelligence Career Fair Fall 2023" /><published>2023-10-12T00:00:00+00:00</published><updated>2024-03-12T02:06:11+00:00</updated><id>/NewACM/2023/10/12/Career-Fair</id><content type="html" xml:base="/NewACM/2023/10/12/Career-Fair.html"><![CDATA[<h2 id="tech--intelligence-career-fair">Tech &amp; Intelligence Career Fair</h2>
+</style>]]></content><author><name></name></author><category term="datathon" /><summary type="html"><![CDATA[The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/NewACM/images/post/S24_Datathon_Logo.jpg" /><media:content medium="image" url="/NewACM/images/post/S24_Datathon_Logo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tech &amp;amp; Intelligence Career Fair Fall 2023</title><link href="/NewACM/2023/10/12/Career-Fair.html" rel="alternate" type="text/html" title="Tech &amp;amp; Intelligence Career Fair Fall 2023" /><published>2023-10-12T00:00:00+00:00</published><updated>2024-03-14T21:25:43+00:00</updated><id>/NewACM/2023/10/12/Career-Fair</id><content type="html" xml:base="/NewACM/2023/10/12/Career-Fair.html"><![CDATA[<h2 id="tech--intelligence-career-fair">Tech &amp; Intelligence Career Fair</h2>
 
 <p>The University of Hawaii at Manoa’s Association for Computing Machinery (ACM) student club will host a Tech &amp; Intelligence Career Fair on October 13rd, 2023 at the Campus Center Ballroom. 
 This is one of the event in Hawaii Tech Days of Fall 2023.</p>
@@ -73,7 +77,7 @@ Information and Computer Science, Computer Engineering, and Management Informati
 <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 
 <style>
-</style>]]></content><author><name></name></author><category term="Careers-Fair" /><summary type="html"><![CDATA[The University of Hawaii at Manoa's Association for Computing Machinery (ACM) student club will host a Tech & Intelligence Career Fair on October 13rd, 2023 at the Campus Center Ballroom.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/NewACM/images/post/F23_CareerFair.jpg" /><media:content medium="image" url="/NewACM/images/post/F23_CareerFair.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tech &amp;amp; Intelligence Career Fair Spring 2023</title><link href="/NewACM/2023/03/31/career-fair.html" rel="alternate" type="text/html" title="Tech &amp;amp; Intelligence Career Fair Spring 2023" /><published>2023-03-31T00:00:00+00:00</published><updated>2024-03-12T02:06:11+00:00</updated><id>/NewACM/2023/03/31/career-fair</id><content type="html" xml:base="/NewACM/2023/03/31/career-fair.html"><![CDATA[<h2 id="acm-manoa-hosts-successful-uh-manoa-tech--intelligence-career-fair">ACM Manoa Hosts Successful UH Manoa Tech &amp; Intelligence Career Fair</h2>
+</style>]]></content><author><name></name></author><category term="Careers-Fair" /><summary type="html"><![CDATA[The University of Hawaii at Manoa's Association for Computing Machinery (ACM) student club will host a Tech & Intelligence Career Fair on October 13rd, 2023 at the Campus Center Ballroom.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/NewACM/images/post/F23_CareerFair.jpg" /><media:content medium="image" url="/NewACM/images/post/F23_CareerFair.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tech &amp;amp; Intelligence Career Fair Spring 2023</title><link href="/NewACM/2023/03/31/career-fair.html" rel="alternate" type="text/html" title="Tech &amp;amp; Intelligence Career Fair Spring 2023" /><published>2023-03-31T00:00:00+00:00</published><updated>2024-03-14T21:25:43+00:00</updated><id>/NewACM/2023/03/31/career-fair</id><content type="html" xml:base="/NewACM/2023/03/31/career-fair.html"><![CDATA[<h2 id="acm-manoa-hosts-successful-uh-manoa-tech--intelligence-career-fair">ACM Manoa Hosts Successful UH Manoa Tech &amp; Intelligence Career Fair</h2>
 <p>The University of Hawaii at Manoa’s Association for Computing Machinery (ACM) student club hosted the UH Manoa Tech &amp; Intelligence Career Fair on March 31st, 2023 at the Campus Center Ballroom. The event was the final event of the #HawaiiTechDaysOfSpring and was a resounding success.</p>
 
 <center>
