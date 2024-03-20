@@ -1,8 +1,10 @@
 ---
 name: Seri Nakamura
 image: images/officer/seri.png
-description: Operations Coordinator
-role: ops
+description: 
+  ops: Operations Coordinator
+  gh: Grey Hats Board Member
+  switch: SWITCH Board Member
 aliases:
   - J. Smith
   - J Smith

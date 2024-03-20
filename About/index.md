@@ -58,13 +58,13 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 <center>
 	<h2>Officers</h2>
 </center>
-{% include list.html data="members" component="portrait" filters="role: President" %}
-{% include list.html data="members" component="portrait" filters="role: vp" %}
-{% include list.html data="members" component="portrait" filters="role: tech" %}
-{% include list.html data="members" component="portrait" filters="role: mkt" %}
-{% include list.html data="members" component="portrait" filters="role: ops" %}
-{% include list.html data="members" component="portrait" filters="role: paf" %}
-{% include list.html data="members" component="portrait" filters="role: lfs" %}
+{% include list.html data="members" component="portrait" filters="description:president" %}
+{% include list.html data="members" component="portrait" filters="description:vp" %}
+{% include list.html data="members" component="portrait" filters="description:tech" %}
+{% include list.html data="members" component="portrait" filters="description:mkt" %}
+{% include list.html data="members" component="portrait" filters="description:ops" %}
+{% include list.html data="members" component="portrait" filters="description:paf" %}
+{% include list.html data="members" component="portrait" filters="description:lfs" %}
 
 
 
@@ -72,7 +72,7 @@ Feel free to ask or suggest anything about the website/otherwise in our [feedbac
 	<h2>Faculty Sponsors</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="role: fac" %}
+{% include list.html data="members" component="portrait" filters="description:fac" %}
 
 
 

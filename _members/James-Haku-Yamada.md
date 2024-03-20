@@ -1,8 +1,8 @@
 ---
 name: James Haku Yamada
 image: images/officer/haku.jpg
-description: Technical Project Manager
-role: tech
+description: 
+  tech: Technical Project Manager
 aliases:
   - J. Smith
   - J Smith

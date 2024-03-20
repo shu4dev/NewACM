@@ -1,8 +1,8 @@
 ---
 name: William Evers-Hood
 image: images/officer/will.png
-description: Operations Director
-role: ops
+description: 
+  ops: Operations Director
 aliases:
   - J. Smith
   - J Smith

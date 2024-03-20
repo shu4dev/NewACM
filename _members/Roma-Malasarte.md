@@ -1,8 +1,9 @@
 ---
 name: Roma Malassarte
 image: images/officer/roma.jpg
-description: Marketing Manager
-role: mkt
+description: 
+  mkt: Marketing Manager
+  switch: SWITCH Vice President of Marketing
 aliases:
   - J. Smith
   - J Smith

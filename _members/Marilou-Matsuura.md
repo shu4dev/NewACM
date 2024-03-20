@@ -1,8 +1,8 @@
 ---
 name: Marilou Matsuura
 image: images/officer/marilou.jpeg
-description: ACM Faculty Sponsor
-role: fac
+description:
+  fac: ACM Faculty Sponsor
 aliases:
   - J. Smith
   - J Smith

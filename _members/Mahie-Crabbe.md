@@ -1,8 +1,8 @@
 ---
 name: Mahie Crabbe
 image: images/officer/mahie.jpeg
-description: Public Relations Director
-role: pr
+description: 
+  pr: Public Relations Directors
 aliases:
   - J. Smith
   - J Smith

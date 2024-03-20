@@ -1,8 +1,8 @@
 ---
 name: Ace Reyes
 image: images/officer/ace.png
-description: Logistics, Facilities & Security Director
-role: lfs
+description: 
+  lfs: Logistics, Facilities & Security Director
 aliases:
   - J. Smith
   - J Smith

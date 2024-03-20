@@ -1,8 +1,8 @@
 ---
 name: Kenny Quibilian
 image: images/officer/kenny.png
-description: ACM Faculty Sponsor
-role: fac
+description: 
+  fac: ACM Faculty Sponsor
 aliases:
   - J. Smith
   - J Smith

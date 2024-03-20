@@ -1,8 +1,8 @@
 ---
 name: Vincent Grillo
 image: images/officer/vincent.jpg
-description: Personnel, Administration and Finance Director
-role: paf
+description: 
+  paf: Personnel, Administration and Finance Director
 aliases:
   - J. Smith
   - J Smith

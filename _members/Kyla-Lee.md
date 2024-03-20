@@ -1,9 +1,8 @@
 ---
 name: Kyla Lee
 image: images/officer/kyla.png
-description: ACM Vice President and Chief of Staff
-role: vp
-group: alum
+description: 
+  vp: ACM Vice President and Chief of Staff
 links:
   github: john-doe
 ---

@@ -1,8 +1,8 @@
 ---
 name: Jarren Seson
 image: images/officer/jarren.jpg
-description: Sr. Operations Coordinator
-role: ops
+description: 
+  ops: Sr. Operations Coordinator
 aliases:
   - J. Smith
   - J Smith

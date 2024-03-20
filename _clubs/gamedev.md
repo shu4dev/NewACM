@@ -27,105 +27,11 @@ We are a passionate group dedicated to designing, building, and showcasing video
 
 Our meetings are currently hosted in our discord server that you can join via [this link](https://discord.gg/5apDUyUEq4)! You can also check out our official website [here.](https://uhmgamedev.wixsite.com/my-site)
 
-<style>
-	#officers-container {
-		width: 130%;
-		max-width: 900px;
-		padding: 0 20px;
-		box-sizing: border-box;
-		margin: auto;
-		text-align: center;
-	}	
-	#officers-container .officer {
-		width: 280px;
-		height: 100px;
-		display: inline-block;
-		color: #333;
-		text-align: left;
-		transition: transform .1s;
-	}
-	#officers-container .officer img {
-		margin: 25px 10px;
-		height: 70px;
-		width: 70px;
-		border: 2px solid #eaeaea;
-		display: inline-block;
-		border-radius: 50%;
-	}
-	#officers-container .officer .info {
-		display: inline-block;
-		vertical-align: top;
-		width: 180px;
-	}
-	#officers-container .officer .info h2 {
-		margin: 0;
-		padding: 0;
-		margin-top: 35px;
-		font-weight: 600;
-		display: inline-block;
-		font-size: 1.3em;
-		line-height: 1.8em;
-		/* Font-Family Missing */
-	}
-	#officers-container .officer .info p {
-		display: inline-block;
-	 	/* Font-Family Missing */
-	 	margin: 0;
-	 	margin-top: -5px;
-	 	font-size: .7em;
-	 	vertical-align: top;
-	}
-</style>
+{% include section.html %}
 
-<div id="officers-container">
-	<div class="officer">
-		<img src="/assets/img/officers/brandi.png" alt="Brandi Wakashige">
-		<div class="info">
-			<h2>Brandi Wakashige</h2>
-			<br>
-			<p>President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/logos/gamedev.png" alt="zoe n">
-		<div class="info">
-			<h2>Zoe n</h2>
-			<br>
-			<p>Vice President</p>
-		</div>
-	</div>
-	<div class="officer">
-		<img src="/assets/img/officers/CoenBracilano.jpeg" alt="Coen Bracilano">
-		<div class="info">
-			<h2>Coen Bracilano</h2>
-			<br>
-			<p>Music Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/logos/gamedev.png" alt="Christopher Oki">
-		<div class="info">
-			<h2>Christopher Oki</h2>
-			<br>
-			<p>Communication Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/logos/gamedev.png" alt="Jiahui Liao">
-		<div class="info">
-			<h2>Jiahui Liao</h2>
-			<br>
-			<p>Coding Officer</p>
-		</div>
-	</div>
-  <div class="officer">
-		<img src="/assets/img/logos/gamedev.png" alt="Anne Di Martino">
-		<div class="info">
-			<h2>Anne Di Martino</h2>
-			<br>
-			<p>Art Officer</p>
-		</div>
-	</div>
-</div>
+<center>
+	<h2>Officers</h2>
+</center>
 
+{% include list.html data="members" component="portrait" filters="description:gamedev" %}
 <br>

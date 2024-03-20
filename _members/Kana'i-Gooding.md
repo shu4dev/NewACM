@@ -1,8 +1,8 @@
 ---
 name: Kana'i Gooding
 image: images/officer/kanai.jpg
-description: ACM President
-role: President
+description: 
+  president: ACM President
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

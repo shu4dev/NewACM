@@ -1,8 +1,8 @@
 ---
 name: David Rickards
 image: images/officer/david.jpg
-description: Operations Coordinator
-role: ops
+description: 
+  ops: Operations Coordinator
 aliases:
   - J. Smith
   - J Smith

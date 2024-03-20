@@ -1,8 +1,8 @@
 ---
-name: Yong-Sung Masuda
-image: images/officer/yongsung.png
-description: Logistics, Facilities & Security Director
-role: lfs
+name: Michael Jake Sumaylo
+image: images/officer/default.png
+description:
+  spark: Lecturer
 aliases:
   - J. Smith
   - J Smith
@@ -18,3 +18,4 @@ Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
 Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
 Magna eget est lorem ipsum.
+

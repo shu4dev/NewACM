@@ -1,8 +1,9 @@
 ---
 name: Brian Shu
 image: images/officer/brian.jpg
-description: ACM Server Administrator & Webmaster
-role: tech
+description: 
+  tech: ACM Server Administrator & Webmaster
+  panda: PANDA Officer
 aliases:
   - J. Smith
   - J Smith

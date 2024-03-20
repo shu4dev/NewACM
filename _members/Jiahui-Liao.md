@@ -1,8 +1,9 @@
 ---
 name: Jiahui Liao
 image: images/officer/jiahui.png
-description: Marketing Manager
-role: mkt
+description: 
+  mkt: Marketing Manager
+  gamedev: Coding Officer
 aliases:
   - J. Smith
   - J Smith

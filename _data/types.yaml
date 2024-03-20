@@ -2,8 +2,6 @@
 
 # team member roles
 
-
-
 paf:
   icon : fa-solid fa-coins
 
@@ -24,6 +22,7 @@ tech:
 
 lfs:
   icon: fa-solid fa-shield-halved
+  
 fac:
   icon: fa-solid fa-user-tie
 

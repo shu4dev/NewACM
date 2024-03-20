@@ -4,7 +4,7 @@ title: ballroom
 
 <center>
 	<figure class="full">
-	  <img height="100px" src="/assets/img/logos/BallroomDanceLogo.png" title="Ballroom Logo" alt="Ballroom Logo">
+	  <img src="/images/ballroom/BDC_Logo_White.png" title="Ballroom Logo" alt="Ballroom Logo">
 	</figure>
 </center>
 <br>
@@ -32,8 +32,10 @@ The Ballroom Dance Club encourages non-dancers and beginners to join and learn h
 
 Besides showing up on Tuesdays at practice, you can also join the [acm server](https://discord.gg/acmmanoa) and give yourself the ballroom dance role in the #roles channel. In the future, we may create a ballroom dance discord server.
 
-<br>
+{% include section.html %}
 
 <center>
 	<h2>Officers</h2>
 </center>
+
+{% include list.html data="members" component="portrait" filters="description:br" %}
