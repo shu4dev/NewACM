@@ -4,7 +4,7 @@ title: Grey Hats
 
 <center>
 	<figure class="full">
-	  <img src="/images/grayhat/grayhats.png" title="Grey Hats Logo" alt="Grey Hats Logo">
+	  <img src="../images/grayhat/grayhats.png" title="Grey Hats Logo" alt="Grey Hats Logo">
 	</figure>
 </center>
 <br>

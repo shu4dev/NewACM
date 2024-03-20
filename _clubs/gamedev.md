@@ -4,7 +4,7 @@ title: Game Dev
 
 <center>
 	<figure class="full">
-	  <img height="100px" src="/assets/img/logos/gamedev.png" title="Game Dev" alt="Game Dev Logo">
+	  <img src="../images/gamedev/gamedev.png" title="Game Dev" alt="Game Dev Logo">
 	</figure>
 </center>
 <br>

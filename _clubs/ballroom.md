@@ -4,7 +4,7 @@ title: ballroom
 
 <center>
 	<figure class="full">
-	  <img src="/images/ballroom/BDC_Logo_White.png" title="Ballroom Logo" alt="Ballroom Logo">
+	  <img src="../images/ballroom/BDC_Logo_White.png" title="Ballroom Logo" alt="Ballroom Logo">
 	</figure>
 </center>
 <br>

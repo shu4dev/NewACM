@@ -4,7 +4,7 @@ title: PANDA
 
 <center>
 	<figure class="full">
-	  <img src="/images/panda/Panda.png" title="Panda Logo" alt="Panda Logo">
+	  <img src="../images/panda/Panda.png" title="Panda Logo" alt="Panda Logo">
 	</figure>
 </center>
 <br>

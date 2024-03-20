@@ -4,7 +4,7 @@ title: SWITCH
 
 <center>
 	<figure class="full">
-	  <img src="/images/switch/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
+	  <img src="../images/switch/switchlogo.png" title="SWITCH Logo" alt="SWITCH Logo">
 	</figure>
 </center>
 <br>

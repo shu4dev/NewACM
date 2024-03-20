@@ -4,7 +4,7 @@ title: ICSpark
 
 <center>
 	<figure class="full">
-	  <img src="/images/icspark/ICSpark_Logo.png" title="ICSpark Logo" alt="ICSpark Logo">
+	  <img src="../images/icspark/ICSpark_Logo.png" title="ICSpark Logo" alt="ICSpark Logo">
 	</figure>
 </center>
 <br>
