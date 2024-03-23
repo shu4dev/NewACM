@@ -2,7 +2,8 @@
 name: Aaron Lander Ancheta
 image: images/officer/default.png
 description:
-  gh: Grey Hats Board Member
+  default:
+  grayhatstaff: Grey Hats Board Member
 aliases:
   - J. Smith
   - J Smith

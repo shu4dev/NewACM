@@ -1,7 +1,8 @@
 ---
 name: Peter Sadowski
 image: images/officer/peter.jpg
-description: 
+description:
+  default:
   fac: ACM Faculty Sponsor
 aliases:
   - J. Smith

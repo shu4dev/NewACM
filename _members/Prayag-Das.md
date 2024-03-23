@@ -1,8 +1,9 @@
 ---
 name: Prayag Das
 image: images/officer/prayag.jpg
-description: 
-  tech: ACM Technology and Innovation Director
+description:
+  default:
+  ACMdirec: Technology and Innovation Director
 aliases:
   - J. Smith
   - J Smith

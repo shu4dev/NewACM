@@ -1,8 +1,9 @@
 ---
 name: Michael Nakagawa
 image: images/officer/michael.png
-description: 
-  panda: PANDA Officer
+description:
+  default:
+  pandastaff: PANDA Officer
 aliases:
   - J. Smith
   - J Smith

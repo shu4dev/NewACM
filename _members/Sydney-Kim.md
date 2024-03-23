@@ -1,8 +1,9 @@
 ---
 name: Sydney Kim
 image: images/officer/sydney.jpg
-description: 
-  br: BDCUHM President
+description:
+  default:
+  ballroomstaff: BDCUHM Secretary
 aliases:
   - J. Smith
   - J Smith

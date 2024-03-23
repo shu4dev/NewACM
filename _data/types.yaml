@@ -90,6 +90,11 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+instagram:
+  icon: fa-brands fa-instagram
+  text: instagram
+  tooltip: instagram
+  link: https://www.instagram.com/uhm_ics/
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter

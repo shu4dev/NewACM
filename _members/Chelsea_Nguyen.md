@@ -1,8 +1,9 @@
 ---
 name: Chelsea Nguyen
 image: images/officer/chelsea.png
-description: 
-  switch: SWITCH President
+description:
+  default:
+  switchpres: SWITCH President
 aliases:
   - J. Smith
   - J Smith

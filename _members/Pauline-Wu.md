@@ -1,10 +1,9 @@
 ---
 name: Pauline Wu
 image: images/officer/pauline.png
-description: 
-  vp: Outreach Program Manager
-  gh: Grey Hats Board Member
-  switch: SWITCH Vice-President of External Affairs & Secretary
+description:
+  default:
+  grayhatstaff: Grey Hats Board Member
 aliases:
   - J. Smith
   - J Smith

@@ -1,8 +1,9 @@
 ---
 name: Ethan Chung
 image: images/officer/ethan.jpg
-description: 
-  panda: PANDA Officer
+description:
+  default:
+  pandastaff: PANDA Officer
 aliases:
   - J. Smith
   - J Smith

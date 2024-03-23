@@ -37,4 +37,6 @@ Our meetings take place in the ICSpace (POST 318B) and are also accessible via Z
 	<h2>Officers</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="description:gh" %}
+{% include list.html data="members" component="portrait" filters="description:grayhatpres" description="grayhatpres" %}
+{% include list.html data="members" component="portrait" filters="description:grayhatvp" description="grayhatvp" %}
+{% include list.html data="members" component="portrait" filters="description:grayhatstaff" description="grayhatstaff" %}

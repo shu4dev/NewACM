@@ -1,8 +1,9 @@
 ---
 name: Elijah Saloma
 image: images/officer/elijah.png
-description: 
-  panda: PANDA Officer
+description:
+  default:
+  pandastaff: PANDA Officer
 aliases:
   - J. Smith
   - J Smith

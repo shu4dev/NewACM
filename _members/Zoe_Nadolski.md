@@ -2,7 +2,8 @@
 name: Zoe Nadolski
 image: images/officer/default.png
 description:
-  gamedev: Vice President
+  default:
+  gamedevvp: Vice President
 aliases:
   - J. Smith
   - J Smith

@@ -1,10 +1,11 @@
 ---
 name: Seri Nakamura
 image: images/officer/seri.png
-description: 
-  ops: Operations Coordinator
-  gh: Grey Hats Board Member
-  switch: SWITCH Board Member
+description:
+  default:
+  ACMcoord: Operations Coordinator
+  grayhatstaff: Grey Hats Board Member
+  switchvp: Vice President of External Affairs
 aliases:
   - J. Smith
   - J Smith

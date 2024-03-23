@@ -1,8 +1,9 @@
 ---
 name: Rob Godfrey
 image: images/officer/rob.png
-description: 
-  panda: PANDA Head Officer
+description:
+  default:
+  pandastaff: PANDA Head Officer
 aliases:
   - J. Smith
   - J Smith

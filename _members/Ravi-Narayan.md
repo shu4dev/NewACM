@@ -1,8 +1,9 @@
 ---
 name: Ravi Narayan
 image: images/officer/ravi.png
-description: 
-  br: BDCUHM President
+description:
+  default:
+  ballroompres: BDCUHM President
 aliases:
   - J. Smith
   - J Smith

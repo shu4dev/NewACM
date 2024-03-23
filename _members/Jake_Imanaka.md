@@ -2,7 +2,8 @@
 name: Jake Imanaka
 image: images/officer/default.png
 description:
-  gh: Grey Hats chairperson
+  default:
+  grayhatpres: Grey Hats chairperson
 aliases:
   - J. Smith
   - J Smith

@@ -2,7 +2,8 @@
 name: Jordan Tyler Calanto
 image: images/officer/default.png
 description:
-  gh: Grey Hats Board Member
+  default:
+  gtayhatstaff: Grey Hats Board Member
 aliases:
   - J. Smith
   - J Smith

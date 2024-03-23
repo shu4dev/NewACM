@@ -2,7 +2,8 @@
 name: Coen Bracilano
 image: images/officer/coen.jpeg
 description:
-  gamedev: Music Officer
+  default:
+  gamedevstaff: Music Officer
 aliases:
   - J. Smith
   - J Smith

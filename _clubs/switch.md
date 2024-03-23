@@ -37,4 +37,6 @@ Join us on [Discord](https://discord.gg/ksxdKeZBxP) to get involved!
 	<h2>Officers</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="description:switch" %}
+{% include list.html data="members" component="portrait" filters="description:switchpres" description="switchpres" %}
+{% include list.html data="members" component="portrait" filters="description:switchvp" description="switchvp" %}
+{% include list.html data="members" component="portrait" filters="description:switchstaff" description="switchstaff" %}

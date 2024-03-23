@@ -2,7 +2,8 @@
 name: Xavier Burt
 image: images/officer/default.png
 description:
-  spark: ICSpark Vice-President
+  default:
+  sparkvp: ICSpark Vice-President
 aliases:
   - J. Smith
   - J Smith

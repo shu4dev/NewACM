@@ -2,7 +2,8 @@
 name: Hubert Liang
 image: images/officer/hubert.png
 description:
-  gh: Grey Hats Board Member
+  default:
+  grayhatstaff: Grey Hats Board Member
 aliases:
   - J. Smith
   - J Smith

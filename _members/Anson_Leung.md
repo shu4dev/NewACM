@@ -1,8 +1,9 @@
 ---
 name: Anson Leung
 image: images/officer/anson.jpg
-description: 
-  panda: PANDA Office
+description:
+  default:
+  pandastaff: PANDA Officer
 aliases:
   - J. Smith
   - J Smith

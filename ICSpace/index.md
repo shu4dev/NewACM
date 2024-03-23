@@ -21,12 +21,12 @@ The ICSpace is not visited by the school custodians. If you have garbage you'd l
 <center>
 	<div class="row"> 
 	  <div class="column">
-	    <img src="/images/icspace/newicspace1.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/images/icspace/newicspace2.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="../images/icspace/newicspace1.jpg" data-featherlight data-featherlight-target-attr="src">
+	  	<img src="../images/icspace/newicspace2.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div>
 	  <div class="column">
-	    <img src="/images/icspace/newicspace3.jpg" data-featherlight data-featherlight-target-attr="src">
-	  	<img src="/images/icspace/newicspace4.jpg" data-featherlight data-featherlight-target-attr="src">
+	    <img src="../images/icspace/newicspace3.jpg" data-featherlight data-featherlight-target-attr="src">
+	  	<img src="../images/icspace/newicspace4.jpg" data-featherlight data-featherlight-target-attr="src">
 	  </div> 
 	</div>
 	<link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />

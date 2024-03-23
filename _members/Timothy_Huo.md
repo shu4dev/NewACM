@@ -2,7 +2,8 @@
 name: Timothy Huo
 image: images/officer/tim.png
 description:
-  spark: ICSpark President
+  default:
+  sparkpres: ICSpark President
 aliases:
   - J. Smith
   - J Smith

@@ -8,13 +8,29 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: communications@acmmanoa.org
+  instagram: https://www.instagram.com/uhm_ics/
+  github: https://github.com/ACManoa
 
+  
+carousels:
+  - images: 
+    - image: /images/S24gen/IMG_4420.jpg
+    - image: /images/S24gen/IMG_4421.jpg
+    - image: /images/S24gen/IMG_4422.jpg
+    - image: /images/S24gen/IMG_4423.jpg
+    - image: /images/S24gen/IMG_4424.jpg
+    - image: /images/S24gen/IMG_4425.jpg
+  - images: 
+    - image: /images/S24CF/DSC02284.jpg
+    - image: /images/S24CF/DSC02288.jpg
+    - image: /images/S24CF/DSC02294.jpg
+    - image: /images/S24CF/DSC02298.jpg
+    - image: /images/S24CF/DSC02325.jpg
+    - image: /images/S24CF/DSC02332.jpg
+    - image: /images/S24CF/DSC02337.jpg
+    - image: /images/S24CF/DSC02349.jpg
+    - image: /images/S24CF/DSC02354.jpg
 ### jekyll settings
 
 # front matter defaults

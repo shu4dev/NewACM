@@ -2,7 +2,8 @@
 name: Michael Jake Sumaylo
 image: images/officer/default.png
 description:
-  spark: Lecturer
+  default:
+  sparkstaff: Lecturer
 aliases:
   - J. Smith
   - J Smith

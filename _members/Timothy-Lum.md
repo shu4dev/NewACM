@@ -1,8 +1,9 @@
 ---
 name: Timothy Lum
 image: images/officer/tim.jpg
-description: 
-  ops: Operations Coordinator
+description:
+  default:
+  ACMcoord: Operations Coordinator
 aliases:
   - J. Smith
   - J Smith

@@ -1,7 +1,7 @@
 ---
 title: Kanehekili Datathon
-image: images/post/S24_Datathon_Logo.jpg
-description: The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun!
+image: images/post/S24_Datathon_Logo/S24_Datathon_Logo.jpg
+description:  The Kanehekili Datathon is a free, weekend-long, aw focused on data science where students network, learn about data science, code, collaborate, and most importantly, have fun!
 tags: datathon
 ---
 

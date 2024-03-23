@@ -1,8 +1,9 @@
 ---
 name: Tammy Guo
 image: images/officer/default.png
-description: 
-  switch: Events Chair
+description:
+  default:
+  switchstaff: Events Chair
 aliases:
   - J. Smith
   - J Smith

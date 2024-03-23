@@ -1,8 +1,9 @@
 ---
 name: Kayla Yanos
 image: images/officer/default.png
-description: 
-  switch: Fundraising Director
+description:
+  default:
+  switchstaff: Fundraising Director
 aliases:
   - J. Smith
   - J Smith

@@ -38,4 +38,6 @@ Besides showing up on Tuesdays at practice, you can also join the [acm server](h
 	<h2>Officers</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="description:br" %}
+{% include list.html data="members" component="portrait" filters="description:ballroompres" description="ballroompres" %}
+{% include list.html data="members" component="portrait" filters="description:ballroomvp" description="ballroomvp" %}
+{% include list.html data="members" component="portrait" filters="description:ballroomstaff" description="ballroomstaff" %}

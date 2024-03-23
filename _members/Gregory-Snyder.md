@@ -1,8 +1,9 @@
 ---
 name: Gregory Snyder
 image: images/officer/gregory.png
-description: 
-  br: BDCUHM Vice-President
+description:
+  default:
+  ballroomvp: BDCUHM Vice-President
 aliases:
   - J. Smith
   - J Smith

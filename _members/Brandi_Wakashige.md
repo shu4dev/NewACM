@@ -2,7 +2,8 @@
 name: Brandi Wakashige
 image: images/officer/default.png
 description:
-  gamedev: President
+  default:
+  gamedevpres: President
 aliases:
   - J. Smith
   - J Smith

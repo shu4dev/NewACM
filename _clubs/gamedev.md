@@ -33,5 +33,7 @@ Our meetings are currently hosted in our discord server that you can join via [t
 	<h2>Officers</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="description:gamedev" %}
+{% include list.html data="members" component="portrait" filters="description:gamedevpres" description="gamedevpres" %}
+{% include list.html data="members" component="portrait" filters="description:gamedevvp" description="gamedevvp" %}
+{% include list.html data="members" component="portrait" filters="description:gamedevstaff" description="gamedevstaff" %}
 <br>

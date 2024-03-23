@@ -2,7 +2,8 @@
 name: Sydnee You
 image: images/officer/sydnee.png
 description:
-  spark: Communication Officer
+  default:
+  sparkstaff: Communication Officer
 aliases:
   - J. Smith
   - J Smith

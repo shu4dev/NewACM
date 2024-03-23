@@ -1,8 +1,9 @@
 ---
 name: Shade Matsumoto
 image: images/officer/default.png
-description: 
-  paf: Personnel, Administration & Finance Specialist 
+description:
+  default:
+  ACMspec: Personnel, Administration & Finance Specialist
 aliases:
   - J. Smith
   - J Smith

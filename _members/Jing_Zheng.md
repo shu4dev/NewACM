@@ -1,8 +1,9 @@
 ---
 name: Jing Zheng
 image: images/officer/jing.png
-description: 
-  switch: SWITCH Vice-President of Communications
+description:
+  default:
+  switchvp: SWITCH Vice-President of Communications
 aliases:
   - J. Smith
   - J Smith

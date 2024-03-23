@@ -42,4 +42,6 @@ Also, if you don't have a discord account, you are welcome to email us at *uhmpa
 	<h2>Officers</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="description:panda" %}
+{% include list.html data="members" component="portrait" filters="description:pandapres" description="pandapres" %}
+{% include list.html data="members" component="portrait" filters="description:pandavp" description="pandavp" %}
+{% include list.html data="members" component="portrait" filters="description:pandastaff" description="pandastaff" %}

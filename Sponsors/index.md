@@ -9,7 +9,7 @@ nav:
 Thank you to the Information and Computer Sciences Department at the University of Hawaii at Manoa for their continued support of our programs.
 
 <center>
-	<img src="/images/uhics.png" alt="UH ICS Logo">
+	<img src="../images/uhics.png" alt="UH ICS Logo">
 </center>
 
 {% include section.html %}

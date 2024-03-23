@@ -2,7 +2,8 @@
 name: Ethan Morrell
 image: images/officer/default.png
 description:
-  gh: Grey Hats Vice Chairperson
+  default:
+  grayhatvp: Grey Hats Vice Chairperson
 aliases:
   - J. Smith
   - J Smith

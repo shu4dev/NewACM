@@ -2,7 +2,8 @@
 name: Briana Lee
 image: images/officer/default.png
 description:
-  spark: Marketing Officer
+  default:
+  sparkstaff: Marketing Officer
 aliases:
   - J. Smith
   - J Smith

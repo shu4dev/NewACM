@@ -2,7 +2,8 @@
 name: Christopher Oki
 image: images/officer/default.png
 description:
-  gamedev: Communication Officer
+  default:
+  gamedevstaff: Communication Officer
 aliases:
   - J. Smith
   - J Smith

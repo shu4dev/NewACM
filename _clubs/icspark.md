@@ -27,4 +27,6 @@ For more information about ICSpark, please visit our [website](https://icspark.g
 	<h2>Officers</h2>
 </center>
 
-{% include list.html data="members" component="portrait" filters="description:spark" %}
+{% include list.html data="members" component="portrait" filters="description:sparkpres" description="sparkpres" %}
+{% include list.html data="members" component="portrait" filters="description:sparkvp" description="sparkvp" %}
+{% include list.html data="members" component="portrait" filters="description:sparkstaff" description="sparkstaff" %}

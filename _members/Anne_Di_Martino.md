@@ -2,7 +2,8 @@
 name: Anne Di Martino
 image: images/officer/default.png
 description:
-  gamedev: Art Officer
+  default:
+  gamedevstaff: Art Officer
 aliases:
   - J. Smith
   - J Smith

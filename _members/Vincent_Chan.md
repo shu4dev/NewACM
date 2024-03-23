@@ -1,8 +1,9 @@
 ---
 name: Vincent Chan
 image: images/officer/vincentC.jpg
-description: 
-  panda: PANDA Vice President
+description:
+  default:
+  pandavp: PANDA Vice President
 aliases:
   - J. Smith
   - J Smith

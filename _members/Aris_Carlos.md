@@ -1,8 +1,9 @@
 ---
 name: Aris Carlos
-image: images/officer/default.png
+image: images/officer/default.png 
 description:
-  gh: Grey Hats Board Member
+  default:
+  grayhatstaff: Grey Hats Board Member
 aliases:
   - J. Smith
   - J Smith

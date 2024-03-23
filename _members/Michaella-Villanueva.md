@@ -1,8 +1,9 @@
 ---
 name: Michaella Villanueva
 image: images/officer/michaella.jpeg
-description: 
-  br: BDCUHM Communications Officer
+description:
+  default:
+  ballroomstaff: BDCUHM Communications Officer
 aliases:
   - J. Smith
   - J Smith
